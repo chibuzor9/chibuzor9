@@ -38,7 +38,7 @@ Hello there! I'm Chibuzor, a passionate software developer with expertise in Pyt
 - Portfolio: [Your Portfolio](link-to-portfolio)
 -->
 
-## 🌱 Currently Learning 
+## Currently Learning 🌱
 I'm currently expanding my skills by diving into:
 
 
