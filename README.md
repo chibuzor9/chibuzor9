@@ -25,7 +25,7 @@ Hello there! I'm Chibuzor, a passionate software developer with expertise in Pyt
 - **JavaScript:** <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="30"/>
 - **Flask:** <img src="https://flask.palletsprojects.com/en/2.1.x/_images/flask-logo.png" alt="Flask Logo" width="30"/>
 - **Angular:** <img src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular Logo" width="30"/>
-- **TypeScript:** <img src="https://www.typescriptlang.org/assets/images/icons/apple-touch-icon-152x152.png" alt="TypeScript Logo" width="30"/>
+- **TypeScript:** <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" alt="TypeScript Logo" width="30"/>
 
 <!--
 ## My Projects
