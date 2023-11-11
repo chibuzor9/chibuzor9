@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 
 Hello there! I'm Chibuzor, a passionate software developer with expertise in Python and JavaScript. I love building web applications using Flask and Angular. Still working on my React 😉
 
-## Technologies I Love 💖👌
+## Technologies I Love 👌
 
-- **Python:** <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="30"/>
-- **JavaScript:** <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="30"/>
-- **Flask:** <img src="https://flask.palletsprojects.com/en/2.1.x/_images/flask-logo.png" alt="Flask Logo" width="30"/>
-- **Angular:** <img src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular Logo" width="30"/>
-- **TypeScript:** <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" alt="TypeScript Logo" width="30"/>
+- **Python** <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="30"/>
+- **JavaScript** <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="30"/>
+- **Flask** <img src="https://flask.palletsprojects.com/en/2.1.x/_images/flask-logo.png" alt="Flask Logo" width="30"/>
+- **Angular** <img src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular Logo" width="30"/>
+- **TypeScript** <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" alt="TypeScript Logo" width="30"/>
 
 <!--
 ## My Projects
