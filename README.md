@@ -38,6 +38,17 @@ Hello there! I'm Chibuzor, a passionate software developer with expertise in Pyt
 - Portfolio: [Your Portfolio](link-to-portfolio)
 -->
 
+## 🌱 Currently Learning 
+I'm currently expanding my skills by diving into:
+
+- **React** ![React Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png)
+  
+  Excited about building dynamic user interfaces with React!
+
+- **Node.js** ![Node.js Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png)
+  
+  Exploring the world of server-side JavaScript with Node.js!
+
 Feel free to explore my repositories and don't hesitate to reach out. Let's code and build amazing things together! 👩‍💻👨‍💻
 
 
