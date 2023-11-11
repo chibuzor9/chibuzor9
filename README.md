@@ -53,9 +53,7 @@ I'm currently expanding my skills by diving into:
 Feel free to explore my repositories and don't hesitate to reach out. Let's code and build amazing things together! 👩‍💻👨‍💻
 
 
-(https://camo.githubusercontent.com/b26203f59bf3183b8c9bf0cc73bbd74774567a47df41a31158e99f1a73e3add4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d736f6a696a722673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374)
-
-
+[![Chibuzor's GitHub stats](https://github-readme-stats.vercel.app/api?username=chibuzor9)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
