@@ -56,6 +56,6 @@ Feel free to explore my repositories and don't hesitate to reach out. Let's code
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=chibuzor9&show_icons=true&locale=en" alt="sojijr" height="180" width="400"/>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chibuzor9&theme=default" alt="sojijr" height="180" width="400"/>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=chibuzor9&theme=default" alt="sojijr" height="180" width="400"/>
 
 
