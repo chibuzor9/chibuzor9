@@ -41,11 +41,11 @@ Hello there! I'm Chibuzor, a passionate software developer with expertise in Pyt
 ## 🌱 Currently Learning 
 I'm currently expanding my skills by diving into:
 
-- **React** ![React Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png alt="ReactJS Logo" width="25")
+- **React** ![React Logo](src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="ReactJS Logo" width="25")
   
   Excited about building dynamic user interfaces with React!
 
-- **Node.js** ![Node.js Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png alt="NodeJS Logo" width="25")
+- **Node.js** ![Node.js Logo](src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="NodeJS Logo" width="25")
   
   Exploring the world of server-side JavaScript with Node.js!
 
