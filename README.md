@@ -55,5 +55,12 @@ Feel free to explore my repositories and don't hesitate to reach out. Let's code
 
 [![Chibuzor's GitHub stats](https://github-readme-stats.vercel.app/api?username=chibuzor9)](https://github.com/anuraghazra/github-readme-stats)
 
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sojijr&show_icons=true&locale=en&layout=compact" alt="sojijr" height="150" width="700" />
+
+
+
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=sojijr&show_icons=true&locale=en" alt="sojijr" height="180" width="400"/>
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sojijr&theme=default" alt="sojijr" height="180" width="400"/>
 
 
