@@ -21,12 +21,11 @@ Hello there! I'm Chibuzor, a passionate software developer with expertise in Pyt
 
 ## Technologies I Love 💖👌
 
-- **Python**: ![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
-- **JavaScript**: ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
-- **Flask**: ![Flask Logo](https://flask.palletsprojects.com/en/2.1.x/_images/flask-logo.png)
-- **Angular**: ![Angular Logo](https://angular.io/assets/images/logos/angular/angular.png)
-- **TypeScript**: ![TypeScript Logo](https://www.typescriptlang.org/assets/images/icons/apple-touch-icon-152x152.png)
-
+- **Python**: <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="50"/>
+- **JavaScript**: <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="50"/>
+- **Flask**: <img src="https://flask.palletsprojects.com/en/2.1.x/_images/flask-logo.png" alt="Flask Logo" width="50"/>
+- **Angular**: <img src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular Logo" width="50"/>
+- **TypeScript**: <img src="https://www.typescriptlang.org/assets/images/icons/apple-touch-icon-152x152.png" alt="TypeScript Logo" width="50"/>
 <!--
 ## My Projects
 
@@ -39,3 +38,7 @@ Hello there! I'm Chibuzor, a passionate software developer with expertise in Pyt
 -->
 
 Feel free to explore my repositories and don't hesitate to reach out. Let's code and build amazing things together! 👩‍💻👨‍💻
+
+
+
+
