@@ -51,10 +51,10 @@ I'm currently expanding my skills by diving into:
 
 Feel free to explore my repositories and don't hesitate to reach out. Let's code and build amazing things together! 👩‍💻👨‍💻
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chibuzor9&show_icons=true&locale=en&layout=compact" alt="sojijr" height="150" width="700" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chibuzor9&show_icons=true&locale=en&layout=compact" alt="Chibuzor" height="150" width="700" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=chibuzor9&show_icons=true&locale=en" alt="sojijr" height="180" width="400"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=chibuzor9&show_icons=true&locale=en" alt="Chibuzor" height="180" width="400"/>
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=chibuzor9&theme=default" alt="sojijr" height="180" width="400"/>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=chibuzor9&theme=default" alt="Chibuzor" height="180" width="400"/>
 
 
