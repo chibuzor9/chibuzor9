@@ -56,32 +56,6 @@ I’m particularly interested in **web development, backend engineering, data, a
 * Strengthening my knowledge of **data engineering and machine learning**
 * Solving algorithmic problems and continuously improving my engineering fundamentals
 
-## 📌 Featured Projects
-
-### ♿ Accessible Web Browsing
-
-A browser extension designed to improve web accessibility by identifying and helping users address common accessibility issues.
-
-**Stack:** React · TypeScript · Next.js · PostgreSQL · Prisma · axe-core
-
-### 💬 Web Chat Application
-
-A real-time messaging application focused on conversations, user management, and persistent message history.
-
-**Stack:** React · Node.js · Express · PostgreSQL · Prisma
-
-### 📰 Online News Platform
-
-A full-stack news platform for publishing and managing news content.
-
-**Stack:** React · Node.js · MongoDB
-
-## 📊 GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=chibuzor9&show_icons=true&theme=default" alt="Chibuzor's GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chibuzor9&layout=compact&theme=default" alt="Chibuzor's Top Languages" />
-
 ---
 
 📫 **Open to:** Software Engineering · Full-Stack Development · Backend Engineering · Data Engineering opportunities
